@@ -1,11 +1,12 @@
 <?php
 // these values are usualy filled by a form
 $subject = "Hello World";
-$message = "test bericht van Jorn Bruin";
+$message = "Test Bericht van Jorn de Bruin";
 $email = "jorn.bruin@student.graafschapcollege.nl"; // sender mail address use your own!
 
 // Recipient email address
-$to = 'p.veltmain@graafschapcollege.nl';
+// $to = 'p.veltman@graafschapcollege.nl';
+$to = 'jorndebruin@outlook.com';
 
         // Create email headers
         $headers = 'From: '. $email . "\r\n" .
