@@ -5,7 +5,7 @@ $message = "Test Bericht van Jorn de Bruin";
 $email = "jorn.bruin@student.graafschapcollege.nl"; // sender mail address use your own!
 
 // Recipient email address
-$to = 'p.veltman@graafschapcollege.nl';
+$to = 'net24pveltman@net24pveltman.gc-webhosting.nl';
 // $to = 'jorndebruin@outlook.com';
 
         // Create email headers
