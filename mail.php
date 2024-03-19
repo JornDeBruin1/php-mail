@@ -2,7 +2,7 @@
 // these values are usualy filled by a form
 $subject = "Hello World";
 $message = "Test Bericht van Jorn de Bruin";
-$email = "jorn.bruin@student.graafschapcollege.nl"; // sender mail address use your own!
+$email = "net24jbruin@net24jbruin.gc-webhosting.nl"; // sender mail address use your own!
 
 // Recipient email address
 $to = 'net24jbruin@net24jbruin.gc-webhosting.nl';
