@@ -2,10 +2,10 @@
 // these values are usualy filled by a form
 $subject = "Hello World";
 $message = "Dit is het eerste mail bericht via PHP";
-$email = "jan@jansen.nl"; // sender mail address use your own!
+$email = "jorn.bruin@student.graafschapcollege.nl"; // sender mail address use your own!
 
 // Recipient email address
-$to = '<username>@<username>.gc-webhosting.nl';
+$to = 'p.veltmain@graafschapcollege.nl';
 
         // Create email headers
         $headers = 'From: '. $email . "\r\n" .
