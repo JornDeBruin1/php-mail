@@ -5,7 +5,7 @@ $message = "Dit is het eerste mail bericht via PHP";
 $email = "jorn.bruin@student.graafschapcollege.nl"; // sender mail address use your own!
 
 // Recipient email address
-$to = 'jorndebruin@outlook.com';
+$to = 'p.veltmain@graafschapcollege.nl';
 
         // Create email headers
         $headers = 'From: '. $email . "\r\n" .
